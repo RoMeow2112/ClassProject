@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,8 +55,7 @@
               "RelativeToolTip": "AddStudentForm.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:04:43.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T06:04:43.479Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Course.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAmwEcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T05:30:04.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T05:30:04.966Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Student.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAIwG0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T05:29:49.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T05:29:49.972Z"
             }
           ]
         }
