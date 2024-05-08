@@ -21,7 +21,7 @@ namespace _19110085_NguyenTranKhai_QLSV
 
         private SqlConnection connection = new SqlConnection("Data Source=DESKTOP-6MVAG4A;Initial Catalog=ClassProject;Integrated Security=True");
 
-        private void ButtonAddStudent_Click(object sender, EventArgs e)
+        private void ButtonAddCourse_Click(object sender, EventArgs e)
         {
             Course course = new Course();
             int cid = Convert.ToInt32(txtCourseID.Text);

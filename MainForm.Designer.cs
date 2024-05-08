@@ -161,6 +161,7 @@ namespace _19110085_NguyenTranKhai_QLSV
             this.editCourseToolStripMenuItem.Name = "editCourseToolStripMenuItem";
             this.editCourseToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.editCourseToolStripMenuItem.Text = "Edit Course";
+            this.editCourseToolStripMenuItem.Click += new System.EventHandler(this.editCourseToolStripMenuItem_Click);
             // 
             // manageToolStripMenuItem
             // 
@@ -168,6 +169,7 @@ namespace _19110085_NguyenTranKhai_QLSV
             this.manageToolStripMenuItem.Name = "manageToolStripMenuItem";
             this.manageToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.manageToolStripMenuItem.Text = "Manage Course";
+            this.manageToolStripMenuItem.Click += new System.EventHandler(this.manageToolStripMenuItem_Click);
             // 
             // printToolStripMenuItem1
             // 
@@ -175,6 +177,7 @@ namespace _19110085_NguyenTranKhai_QLSV
             this.printToolStripMenuItem1.Name = "printToolStripMenuItem1";
             this.printToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.printToolStripMenuItem1.Text = "Print";
+            this.printToolStripMenuItem1.Click += new System.EventHandler(this.printToolStripMenuItem1_Click);
             // 
             // sCOREToolStripMenuItem
             // 

@@ -36,7 +36,7 @@
             this.txtLabel = new System.Windows.Forms.TextBox();
             this.txtPeriod = new System.Windows.Forms.TextBox();
             this.txtDescription = new System.Windows.Forms.TextBox();
-            this.ButtonAddStudent = new System.Windows.Forms.Button();
+            this.ButtonAddCourse = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -116,16 +116,16 @@
             this.txtDescription.Size = new System.Drawing.Size(209, 105);
             this.txtDescription.TabIndex = 8;
             // 
-            // ButtonAddStudent
+            // ButtonAddCourse
             // 
-            this.ButtonAddStudent.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.ButtonAddStudent.Location = new System.Drawing.Point(161, 273);
-            this.ButtonAddStudent.Name = "ButtonAddStudent";
-            this.ButtonAddStudent.Size = new System.Drawing.Size(108, 44);
-            this.ButtonAddStudent.TabIndex = 20;
-            this.ButtonAddStudent.Text = "Add";
-            this.ButtonAddStudent.UseVisualStyleBackColor = false;
-            this.ButtonAddStudent.Click += new System.EventHandler(this.ButtonAddStudent_Click);
+            this.ButtonAddCourse.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.ButtonAddCourse.Location = new System.Drawing.Point(161, 273);
+            this.ButtonAddCourse.Name = "ButtonAddCourse";
+            this.ButtonAddCourse.Size = new System.Drawing.Size(108, 44);
+            this.ButtonAddCourse.TabIndex = 20;
+            this.ButtonAddCourse.Text = "Add";
+            this.ButtonAddCourse.UseVisualStyleBackColor = false;
+            this.ButtonAddCourse.Click += new System.EventHandler(this.ButtonAddCourse_Click);
             // 
             // AddCourse
             // 
@@ -133,7 +133,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.ClientSize = new System.Drawing.Size(426, 329);
-            this.Controls.Add(this.ButtonAddStudent);
+            this.Controls.Add(this.ButtonAddCourse);
             this.Controls.Add(this.txtDescription);
             this.Controls.Add(this.txtPeriod);
             this.Controls.Add(this.txtLabel);
@@ -159,6 +159,6 @@
         public System.Windows.Forms.TextBox txtLabel;
         public System.Windows.Forms.TextBox txtPeriod;
         public System.Windows.Forms.TextBox txtDescription;
-        private System.Windows.Forms.Button ButtonAddStudent;
+        private System.Windows.Forms.Button ButtonAddCourse;
     }
 }

@@ -70,5 +70,23 @@ namespace _19110085_NguyenTranKhai_QLSV
             DeleteCourse removeCourse = new DeleteCourse();
             removeCourse.Show(this);
         }
+
+        private void editCourseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            EditCourseForm editCourseForm = new EditCourseForm();
+            editCourseForm.Show(this);
+        }
+
+        private void manageToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ManageCoursesForm manageCoursesForm = new ManageCoursesForm();
+            manageCoursesForm.Show(this);
+        }
+
+        private void printToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            PrintCourseForm printCourseForm = new PrintCourseForm();
+            printCourseForm.Show(this);
+        }
     }
 }

@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\managestudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:managestudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\printcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:printcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\printcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:printcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:printform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|c:\\users\\nguye\\source\\repos\\19110085_nguyentrankhai_qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7EB598-F95D-4AA8-86AC-18A9C0F6D40D}|19110085_NguyenTranKhai_QLSV.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,51 +47,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddCourse.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\AddCourse.cs",
-              "RelativeDocumentMoniker": "AddCourse.cs",
-              "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\AddCourse.cs",
-              "RelativeToolTip": "AddCourse.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAA7AAAA",
+              "Title": "ManageStudentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\ManageStudentsForm.cs",
+              "RelativeDocumentMoniker": "ManageStudentsForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\ManageStudentsForm.cs",
+              "RelativeToolTip": "ManageStudentsForm.cs",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAkwA8BAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:04:58.399Z",
+              "WhenOpened": "2024-05-08T23:47:37.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddStudentForm.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\AddStudentForm.cs",
-              "RelativeDocumentMoniker": "AddStudentForm.cs",
-              "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\AddStudentForm.cs",
-              "RelativeToolTip": "AddStudentForm.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Title": "PrintCourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\PrintCourseForm.cs",
+              "RelativeDocumentMoniker": "PrintCourseForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\PrintCourseForm.cs",
+              "RelativeToolTip": "PrintCourseForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:04:43.479Z"
+              "WhenOpened": "2024-05-08T23:42:22.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PrintForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\PrintForm.cs",
+              "RelativeDocumentMoniker": "PrintForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\PrintForm.cs",
+              "RelativeToolTip": "PrintForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:39:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\PrintForm.cs",
+              "RelativeDocumentMoniker": "PrintForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\PrintForm.cs [Design]",
+              "RelativeToolTip": "PrintForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:39:28.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintCourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\PrintCourseForm.cs",
+              "RelativeDocumentMoniker": "PrintCourseForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\PrintCourseForm.cs [Design]",
+              "RelativeToolTip": "PrintCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:39:16.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:31:11.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\Course.cs",
               "RelativeDocumentMoniker": "Course.cs",
               "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\Course.cs",
               "RelativeToolTip": "Course.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAmwEcAAAAQAAAA",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwI4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T05:30:04.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\Student.cs",
-              "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "C:\\Users\\nguye\\source\\repos\\19110085_NguyenTranKhai_QLSV\\Student.cs",
-              "RelativeToolTip": "Student.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAIwG0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T05:29:49.972Z"
+              "WhenOpened": "2024-05-08T21:33:46.626Z",
+              "EditorCaption": ""
             }
           ]
         }

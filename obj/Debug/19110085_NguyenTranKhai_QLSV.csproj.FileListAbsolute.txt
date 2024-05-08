@@ -41,3 +41,6 @@ C:\Users\nguye\source\repos\19110085_NguyenTranKhai_QLSV\obj\Debug\_19110085_Ngu
 C:\Users\nguye\source\repos\19110085_NguyenTranKhai_QLSV\obj\Debug\_19110085_NguyenTranKhai_QLSV.AdminForm.resources
 C:\Users\nguye\source\repos\19110085_NguyenTranKhai_QLSV\obj\Debug\_19110085_NguyenTranKhai_QLSV.AddCourse.resources
 C:\Users\nguye\source\repos\19110085_NguyenTranKhai_QLSV\obj\Debug\_19110085_NguyenTranKhai_QLSV.DeleteCourse.resources
+C:\Users\nguye\source\repos\19110085_NguyenTranKhai_QLSV\obj\Debug\_19110085_NguyenTranKhai_QLSV.EditCourseForm.resources
+C:\Users\nguye\source\repos\19110085_NguyenTranKhai_QLSV\obj\Debug\_19110085_NguyenTranKhai_QLSV.ManageCoursesForm.resources
+C:\Users\nguye\source\repos\19110085_NguyenTranKhai_QLSV\obj\Debug\_19110085_NguyenTranKhai_QLSV.PrintCourseForm.resources

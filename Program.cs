@@ -16,7 +16,7 @@ namespace _19110085_NguyenTranKhai_QLSV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+            Application.Run(new PrintCourseForm());
         }
     }
 }

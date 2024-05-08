@@ -169,12 +169,35 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ClassProjectDataSet2.xsd</DependentUpon>
     </Compile>
+    <Compile Include="ClassProjectDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClassProjectDataSet3.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Course.cs" />
     <Compile Include="DeleteCourse.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="DeleteCourse.Designer.cs">
       <DependentUpon>DeleteCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditCourseForm.Designer.cs">
+      <DependentUpon>EditCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageCoursesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageCoursesForm.Designer.cs">
+      <DependentUpon>ManageCoursesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintCourseForm.Designer.cs">
+      <DependentUpon>PrintCourseForm.cs</DependentUpon>
     </Compile>
     <Compile Include="RegisterForm.cs">
       <SubType>Form</SubType>
@@ -246,14 +269,23 @@
     <EmbeddedResource Include="DeleteCourse.resx">
       <DependentUpon>DeleteCourse.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="EditCourseForm.resx">
+      <DependentUpon>EditCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ManageCoursesForm.resx">
+      <DependentUpon>ManageCoursesForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ManageStudentsForm.resx">
       <DependentUpon>ManageStudentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintCourseForm.resx">
+      <DependentUpon>PrintCourseForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PrintForm.resx">
       <DependentUpon>PrintForm.cs</DependentUpon>
@@ -314,6 +346,17 @@
     </None>
     <None Include="ClassProjectDataSet2.xss">
       <DependentUpon>ClassProjectDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ClassProjectDataSet3.xsc">
+      <DependentUpon>ClassProjectDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ClassProjectDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClassProjectDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassProjectDataSet3.xss">
+      <DependentUpon>ClassProjectDataSet3.xsd</DependentUpon>
     </None>
     <None Include="packages.config" />
     <None Include="Properties\DataSources\UpdateDeleteStudentForm.datasource" />
